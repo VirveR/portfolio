@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.36ffff30.css",
+    "main.js": "/portfolio/static/js/main.7e016c33.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Etusivu.png": "/portfolio/static/media/Etusivu.ac51ceb4ebe1c460751a.png",
+    "static/media/Selaa.png": "/portfolio/static/media/Selaa.732259aef45b008d7b03.png",
+    "static/media/omakuva1.jpg": "/portfolio/static/media/omakuva1.a89abde1c8573e1bd85c.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.36ffff30.css.map": "/portfolio/static/css/main.36ffff30.css.map",
+    "main.7e016c33.js.map": "/portfolio/static/js/main.7e016c33.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ffff30.css",
+    "static/js/main.7e016c33.js"
+  ]
+}
